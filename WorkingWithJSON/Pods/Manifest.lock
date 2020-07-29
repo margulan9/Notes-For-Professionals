@@ -1,0 +1,20 @@
+PODS:
+  - Freddy (3.0.3)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Freddy
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Freddy
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Freddy: d799734b6bf66747ea400d4f47dc51ae8e31685c
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: fc7fed95cb2c1ff15c50d0a0f6fd1cd20260ec51
+
+COCOAPODS: 1.9.3

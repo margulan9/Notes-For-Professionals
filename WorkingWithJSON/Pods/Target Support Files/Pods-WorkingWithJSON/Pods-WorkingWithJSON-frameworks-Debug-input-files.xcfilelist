@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-WorkingWithJSON/Pods-WorkingWithJSON-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Freddy/Freddy.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
